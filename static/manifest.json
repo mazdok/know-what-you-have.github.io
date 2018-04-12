@@ -1,6 +1,6 @@
 {
-  "name": "know_what_you_have",
-  "short_name": "know_what_you_have",
+  "name": "Know your stuff",
+  "short_name": "KYS",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
